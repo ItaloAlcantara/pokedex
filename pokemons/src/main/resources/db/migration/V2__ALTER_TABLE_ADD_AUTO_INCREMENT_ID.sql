@@ -1,0 +1,1 @@
+ALTER TABLE pokemon MODIFY id bigint AUTO_INCREMENT;
